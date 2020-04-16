@@ -1,0 +1,10 @@
+D:\Projects\Serial_Port_Control\Serial_port_Control\bin\Debug\Serial_port_Control.exe.config
+D:\Projects\Serial_Port_Control\Serial_port_Control\bin\Debug\Serial_port_Control.exe
+D:\Projects\Serial_Port_Control\Serial_port_Control\bin\Debug\Serial_port_Control.pdb
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.csprojAssemblyReference.cache
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.frmSerial.resources
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.Properties.Resources.resources
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.csproj.GenerateResource.cache
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.csproj.CoreCompileInputs.cache
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.exe
+D:\Projects\Serial_Port_Control\Serial_port_Control\obj\Debug\Serial_port_Control.pdb
